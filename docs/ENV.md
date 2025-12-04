@@ -1,6 +1,4 @@
-# Training VideoMind
-
-## 🛠️ Environment Setup
+# 🛠️ Environment Setup
 
 Please refer to the following environmental settings that we use. You may install these packages by yourself if you meet any problem during automatic installation.
 
