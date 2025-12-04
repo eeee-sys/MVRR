@@ -1,5 +1,21 @@
 <h1 align="center">MVRR: A Multi-Agent Framework for VideoQA with Reviser and Rewriter Synergy</h1>
 
+<p align="center">
+  <a href="#">Shang Ma</a><sup>1</sup>,
+  <a href="#">Jisheng Dang</a><sup>1*</sup>,
+  <a href="#">Bimei Wang</a><sup>2,3</sup>,
+  <a href="#">Yulan Guo</a><sup>4</sup>,
+  <a href="#">Bin Hu</a><sup>1,5</sup>,
+  <a href="#">Tat Seng Chua</a><sup>3</sup>
+</p>
+
+<p align="center">
+  <sup>1</sup>Lanzhou University&nbsp;&nbsp;&nbsp;
+  <sup>2</sup>Jinan University&nbsp;&nbsp;&nbsp;
+  <sup>3</sup>National University of Singapore<br>
+  <sup>4</sup>Sun Yat-sen University&nbsp;&nbsp;&nbsp;
+  <sup>5</sup>Beijing Institute of Technology
+</p>
 
 <!-- <p align="center">
   <a href="https://yeliu.dev/" target="_blank">Ye Liu</a><sup>1&dagger;</sup>, <a href="https://qhlin.me/" target="_blank">Kevin Qinghong Lin</a><sup>2&dagger;</sup>, <a href="https://web.comp.polyu.edu.hk/chencw/" target="_blank">Chang Wen Chen</a><sup>1</sup>, <a href="https://sites.google.com/view/showlab" target="_blank">Mike Zheng Shou</a><sup>2</sup>
