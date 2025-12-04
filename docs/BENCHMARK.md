@@ -3,8 +3,6 @@
 ### 🔮 Table of Content
 [CG-Bench](#cg-bench-mini)
 [Video-MME](#video-mme-wo-subs)
-[MLVU](#mlvu)
-[LVBench](#lvbench)
 [LongVideoBench](#longvideobench)
 
 > Click on the datasets to jump to the tables.
