@@ -49,6 +49,7 @@ MVRR
 The dataset used for evaluation is listed as follows. All the data, including the raw videos, compressed videos, and annotations, could be downloaded on [Hugging Face](https://huggingface.co/datasets/yeliudev/VideoMind-Dataset).
 
 | Datasets      |
+|---------------|
 | CG-Bench      |
 | Video-MME     |
 | LongVideoBench|
