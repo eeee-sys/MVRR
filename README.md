@@ -40,7 +40,7 @@
 -->
 
 ## 📺 Video Presentation of our method
-#### CG-Bench
+#### CG-Bench (mini)
 <!--
 <video src=".github/cgbench_compress.mp4" width="100%" controls></video>
 -->
@@ -49,6 +49,9 @@
 -->
 https://github.com/user-attachments/assets/0ef6c1c0-74a3-49b4-bd59-7a2c060d7b3c
 
+#### LongVideoBench
+
+#### Video-MME (Long)
 
 ## 🏆 MVRR on Public Benchmarks
 
