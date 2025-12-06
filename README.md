@@ -41,7 +41,7 @@
 
 ## 📺 Video Presentation of our method
 #### CG-Bench
-
+https://b23.tv/nYbLugW
 
 ## 🏆 MVRR on Public Benchmarks
 
