@@ -39,6 +39,10 @@
 - **`2025.03.17`** 🎉 Our [tech report](https://arxiv.org/abs/2503.13444) is available online.
 -->
 
+## 📺 Video Presentation of our method
+#### CG-Bench
+
+
 ## 🏆 MVRR on Public Benchmarks
 
 | Benchmark                         | Evaluation Results (2B/7B)                                      |
