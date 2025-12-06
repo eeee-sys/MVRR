@@ -42,6 +42,8 @@
 ## 📺 Video Presentation of our method
 #### CG-Bench
 <video src=".github/cgbench_compress.mp4" width="100%" controls></video>
+[cgbench_compress.webm](https://github.com/user-attachments/assets/b4c95761-ba4f-4497-8d09-de9ef505ad97)
+
 
 ## 🏆 MVRR on Public Benchmarks
 
