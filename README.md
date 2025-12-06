@@ -50,6 +50,7 @@
 https://github.com/user-attachments/assets/0ef6c1c0-74a3-49b4-bd59-7a2c060d7b3c
 
 #### LongVideoBench
+https://github.com/user-attachments/assets/dfb1e0a4-70d4-4443-bf23-9bad83348d49
 
 #### Video-MME (Long)
 
