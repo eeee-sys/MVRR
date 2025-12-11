@@ -439,7 +439,7 @@ if __name__ == '__main__':
             do_reviser = True
 
 
-        '''if do_reviser:
+        if do_reviser:
             print('=============== reviser ===============')
 
             dump['agents'].append('reviser')
@@ -527,11 +527,11 @@ if __name__ == '__main__':
             if score >= score_threshold_value:
                 reviser_response_tuple = ("Correct", )
             else:
-                reviser_response_tuple = ("Wrong", )'''
+                reviser_response_tuple = ("Wrong", )
 
         #do revise every time
 
-        reviser_response_tuple = ("Wrong", )
+        #reviser_response_tuple = ("Wrong", )
         if reviser_response_tuple[0] == "Correct":
             print(reviser_response_tuple)
         elif reviser_response_tuple[0] == "Wrong":
