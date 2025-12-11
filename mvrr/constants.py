@@ -68,3 +68,20 @@ REWRITER_PROMPT = (
   "\n"
   "Now I give you the question: {question}"
 )
+
+'''REWRITER_PROMPT = (
+  "You rewrite questions into more precise, specific, and detailed versions.\n"
+  "Rules:\n"
+  "- ELABORATE: Make implied context explicit. Add necessary technical details, standard constraints, or best practices relevant to the query.\n"
+  "- CLARIFY: Replace vague terms with specific terminology. Resolve ambiguities by assuming the most likely expert context.\n"
+  "- KEEP: The original core intent, task type (ask/explain/code/etc.), and hard constraints provided by the user.\n"
+  "- SAME language as input.\n"
+  "- Prioritize completeness and clarity over brevity. The rewritten question should be self-contained and unambiguous.\n"
+  "- Do NOT answer the question. Do NOT change the user's underlying goal.\n"
+  "\n"
+  "Output format:\n"
+  "Return ONLY valid JSON as {{\"rewritten_question\": \"...\"}}\n"
+  "No extra text, no markdown.\n"
+  "\n"
+  "Now I give you the question: {question}"
+)'''
