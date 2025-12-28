@@ -47,7 +47,7 @@ bash scripts/evaluation/eval_auto_2b.sh <dataset> [<split>]
 
 Here, `<dataset>` could be replaced with the following dataset names:
 
-- VideoQA: `videomme`, `longvideobench`, `cgbench`
+- VideoQA: `lvbench`, `longvideobench`, `cgbench`
 
 The optional argument `<split>` could be `valid` or `test`, with `test` by default.
 
