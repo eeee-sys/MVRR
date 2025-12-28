@@ -26,8 +26,7 @@
 > **TL;DR:** Pioneer DeepSearch-like Video Understanding.
 -->
 
-**MVRR** is a multi-modal agent framework that enhances videoQA accuracy by emulating *human-like* processes, such as *localizing* and *verifying* moments, *synthesizing answers*, *checking initial answers*, *rewrite questions* and *secondary answering*. This approach addresses the unique challenges of VideoQA in a progressive strategy.
-
+**MVRR** is a multi-modal agent framework that comprises four core components, which are the base VideoQA/MLLM, the Reviser, the Grounder, and the Rewriter, integrated with two feedback loops, to address hallucination and improve VideoQA accuracy
 <p align="center"><img width="750" src=".github/method.png"></p>
 
 <!--
