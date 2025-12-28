@@ -2,7 +2,7 @@
 
 ### 🔮 Table of Content
 [CG-Bench](#cg-bench-mini)
-[Video-MME](#video-mme-wo-subs)
+[LVBench](#lvbench)
 [LongVideoBench](#longvideobench)
 
 > Click on the datasets to jump to the tables.
@@ -22,51 +22,18 @@
 | Video-CCAM           | 14B    | 29.7      |
 | Kangaroo             | 8B     | 30.2      |
 | VideoMind (Ours)     | 2B     | 31.0      |
-| **MVRR (Ours)**      | 2B     | 31.9      |
+| **MVRR (Ours)**      | 2B     | 31.8      |
 
 
 
-### Video-MME (w/o subs):
-
-| Model                | Size | Long |
-|----------------------|:----:|:----:|
-| Video-LLaVA          | 7B   | 37.8 |
-| TimeChat             | 7B   | 32.1 |
-| MovieChat            | 7B   | 33.4 |
-| PLLaVA               | 34B  | 34.7 |
-| VideoChat-TPO        | 7B   | 41.0 |
-| LongVA               | 7B   | 46.2 |
-| VideoMind            | 2B   | 45.4 |
-| **MVRR** (Ours)      | 2B   | 46.6 |
-
-
-
-### LongVideoBench:
+### LongVideoBench val (900,3600]:
 
 | Method               | Size | Acc  | 
-|----------------------|:----:|:----:|
-| Idefics2             | 8B   | 49.7 | 
-| Phi-3-Vision         | 4B   | 49.6 |
-| Mantis-Idefics2      | 8B   | 47.0 | 
-| Mantis-BakLLaVA      | 7B   | 43.7 | 
-| VideoMind            | 2B   | 48.8 | 
-| **MVRR (Ours)**      | 2B   | 51.4 | 
+|----------------------|:----:|:----:| 
+| Mantis-BakLLaVA      | 7B   | 38.7 | 
+| VideoMind            | 2B   | 41.7 | 
+| **MVRR (Ours)**      | 2B   | 42.2 | 
 
-<!--
-##### The following Benchmarks are only used during early exploration, but we still show them to facilitate future research.
-
-### MLVU:
-
-| Model                | Size | M-Avg |
-|----------------------|:----:|:-----:|
-| Video-LLaVA          | 7B   | 29.3  |
-| TimeChat             | 7B   | 30.9  |
-| MovieChat            | 7B   | 25.8  |
-| PLLaVA               | 34B  | 53.6  |
-| VideoChat-TPO        | 7B   | 54.7  |
-| LongVA               | 7B   | 56.3  |
-| VideoMind            | 2B   | 58.7  |
-| **MVRR** (Ours)      | 2B   | 58.9  |
 
 ### LVBench:
 
@@ -74,13 +41,8 @@
 |----------------------|:----:|:-------:|
 | Gemini-1.5-Pro       | –    | 33.1    |
 | GPT-4o               | –    | 30.8    |
-| Video-LLaVA          | 7B   | –       |
 | TimeChat             | 7B   | 22.3    |
 | MovieChat            | 7B   | 22.5    |
 | PLLaVA               | 34B  | 26.1    |
-| VideoChat-TPO        | 7B   | –       |
-| LongVA               | 7B   | –       |
-| **VideoMind** (Ours) | 2B   | 35.4    |
-| **VideoMind** (Ours) | 7B   | 40.8    |
--->
-
+| VideoMind (Ours)     | 2B   | 35.4    |
+| **MVRR** (Ours)      | 2B   | 35.9    |
