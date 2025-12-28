@@ -45,5 +45,5 @@
 | TimeChat             | 7B   | 22.3    |
 | MovieChat            | 7B   | 22.5    |
 | PLLaVA               | 34B  | 26.1    |
-| VideoMind (Ours)     | 2B   | 35.4    |
+| VideoMind            | 2B   | 35.4    |
 | **MVRR** (Ours)      | 2B   | 35.9    |
