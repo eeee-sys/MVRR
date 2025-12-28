@@ -143,7 +143,7 @@ The following datasets are not used in our project (partially used during early 
 
 **Notes**:
 
-1. Planner, Grounder, Verifier follows the design of VideoMind (<https://github.com/yeliudev/VideoMind>)
+1. Grounder, Verifier follows the design of VideoMind (<https://github.com/yeliudev/VideoMind>)
 2. Use the following commands to concatenate and extract video tar splits (e.g., videos.tar.gz.00, videos_3fps_480_noaudio.tar.gz.00).
 
 ```
