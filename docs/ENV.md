@@ -2,9 +2,9 @@
 
 Please refer to the following environmental settings that we use. You may install these packages by yourself if you meet any problem during automatic installation.
 
-- CUDA 11.8 / CANN 8.0
+- CUDA 12.8 
 - Python 3.11.0
-- PyTorch 2.4.0 / Torch-NPU 2.4.0.post2
+- PyTorch 2.9.1 
 - [Transformers](https://github.com/huggingface/transformers) 4.45.2
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) 0.15.4
 - [NNCore](https://github.com/yeliudev/nncore) 0.4.5
@@ -51,7 +51,7 @@ The dataset used for evaluation is listed as follows. All the data, including th
 | Datasets      |
 |---------------|
 | CG-Bench      |
-| Video-MME     |
+| LVBench       |
 | LongVideoBench|
 
 <!--
@@ -71,10 +71,9 @@ After downloading the required datasets, extract the `tar.gz` files and place th
 ```
 MVRR
 └─ data
-   └─ videomme
-      ├─ videos
-      ├─ subtitles
-      └─ test-00000-of-00001.parquet
+   └─ lvbench
+      ├─ videos_3fps_480_noaudio
+      └─ video_info.meta.jsonl
 ```
 <!--
 ## 🕹️ Start Training
