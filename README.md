@@ -1,4 +1,4 @@
-<h1 align="center">MVRR: A Multi-Agent Framework for VideoQA with Reviser and Rewriter Synergy</h1>
+<h1 align="center">Feedback-Driven Refinement: A Self-Correcting Multi-Agent Framework for VideoQA</h1>
 
 <!-- <p align="center">
   <a href="#">Shang Ma</a><sup>1</sup>,
