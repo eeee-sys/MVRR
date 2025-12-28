@@ -60,8 +60,8 @@ https://github.com/user-attachments/assets/0ef6c1c0-74a3-49b4-bd59-7a2c060d7b3c
 | Benchmark                         | Evaluation Results (2B/7B)                                      |
 |-----------------------------------|-----------------------------------------------------------------|
 |      CG-Bench (mini)              | `long-acc: 31.9`                                                |
-|      Video-MME (w/o subs)         | `Long: 46.6`                                                    |
-|      LongVideoBench               | `Acc: 51.4`                                                     |
+|      LVBench                      | `Overall: 35.9`                                                 |
+|      LongVideoBench (val)         | `(900, 3600]: 42.2`                                             |
 
 See [BENCHMARK.md](/docs/BENCHMARK.md) for full evaluation results.
 
