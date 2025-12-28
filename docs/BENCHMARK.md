@@ -2,8 +2,9 @@
 
 ### 🔮 Table of Content
 [CG-Bench](#cg-bench-mini)
-[LVBench](#lvbench)
 [LongVideoBench](#longvideobench)
+[LVBench](#lvbench)
+
 
 > Click on the datasets to jump to the tables.
 
