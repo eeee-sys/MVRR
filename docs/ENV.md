@@ -66,7 +66,7 @@ The dataset used for evaluation is listed as follows. All the data, including th
 The codebase also supports more grounding datasets such as `ego_timeqa`, `ego4d_nlq`, `ego4d_naq`, `vid_morp`, `videoxum`, and `youcook2`, but they are not used to train the model in our paper. Different variants of these datasets are also included. See the individual dataset files [here](https://github.com/yeliudev/VideoMind/blob/main/videomind/dataset/sub_classes) for more details.
 -->
 
-After downloading the required datasets, extract the `tar.gz` files and place them in the `data` folder. The processed files should be organized in the following structure (taking `videomme` as an example).
+After downloading the required datasets, extract the `tar.gz` files and place them in the `data` folder. The processed files should be organized in the following structure (taking `lvbench` as an example).
 
 ```
 MVRR
