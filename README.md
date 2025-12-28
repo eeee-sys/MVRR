@@ -57,7 +57,7 @@ https://github.com/user-attachments/assets/0ef6c1c0-74a3-49b4-bd59-7a2c060d7b3c
 
 ## 🏆 MVRR on Public Benchmarks
 
-| Benchmark                         | Evaluation Results (2B/7B)                                      |
+| Benchmark                         | Evaluation Results (2B)                                      |
 |-----------------------------------|-----------------------------------------------------------------|
 |      CG-Bench (mini)              | `long-acc: 31.9`                                                |
 |      LVBench                      | `Overall: 35.9`                                                 |
