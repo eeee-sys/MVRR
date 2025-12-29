@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/178a32f5-2a25-4d20-b81d-36c00543d853
 [https://github.com/user-attachments/assets/dfb1e0a4-70d4-4443-bf23-9bad83348d49](https://github.com/user-attachments/assets/68864d77-1225-4045-a367-a213ea7faf9e)
 
 #### LVBench
-[https://github.com/user-attachments/assets/1d42e88b-bca6-44a5-ad07-0389ed33cc5d](https://github.com/user-attachments/assets/b4935e89-c586-4837-8e49-0ff4a8996672)
+https://github.com/user-attachments/assets/20710bb8-126c-48d6-b516-4a580b8c1e8e
 
 ## 🏆 MVRR on Public Benchmarks
 
