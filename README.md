@@ -46,7 +46,7 @@
 <!--
 [cgbench_compress.webm](https://github.com/user-attachments/assets/b4c95761-ba4f-4497-8d09-de9ef505ad97)
 -->
-https://github.com/user-attachments/assets/0ef6c1c0-74a3-49b4-bd59-7a2c060d7b3c
+https://github.com/user-attachments/assets/178a32f5-2a25-4d20-b81d-36c00543d853
 
 #### LongVideoBench
 [https://github.com/user-attachments/assets/dfb1e0a4-70d4-4443-bf23-9bad83348d49](https://github.com/user-attachments/assets/68864d77-1225-4045-a367-a213ea7faf9e)
