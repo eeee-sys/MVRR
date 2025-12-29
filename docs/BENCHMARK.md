@@ -10,8 +10,7 @@
 
 ### CG-Bench (mini):
 
-| Method               | Size   | long-acc. | 
-|----------------------|:------:|:---------:|
+| Method               | Size   | long-acc. | mIou | rec.@IoU | acc.@IoU |-|----------------------|:------:|:---------:|:----:|:--------:|:--------:|
 | Video-LLaVA          | 7B     | 16.2      |
 | VideoLLaMA           | 7B     | 18.4      |
 | VideoChat2           | 7B     | 19.3      |
