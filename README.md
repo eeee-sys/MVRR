@@ -1,4 +1,4 @@
-<h1 align="center">Feedback-Driven Refinement: A Self-Correcting Multi-Agent Framework for VideoQA</h1>
+<h1 align="center">Feedback-Driven Refinement: A Self-Correcting Multi-Agent Framework for Video Reasoning</h1>
 
 <!-- <p align="center">
   <a href="#">Shang Ma</a><sup>1</sup>,
