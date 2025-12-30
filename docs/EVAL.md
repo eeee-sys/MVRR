@@ -38,7 +38,7 @@ VideoMind
 
 ### Multi-Process Inference (one GPU / NPU per process)
 
-Use the following commands to evalute MVRR on different benchmarks. The default setting is to distribute the samples to 8 processes (each with one device) for acceleration. This mode requires at least 32GB memory per device.
+Use the following commands to evalute MVRR on different benchmarks. The default setting is to distribute the samples to 8 processes (each with one device) for acceleration.
 
 ```shell
 # Evaluate MVRR (2B) on benchmarks
